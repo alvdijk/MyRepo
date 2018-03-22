@@ -1,0 +1,1 @@
+get-process notepad.exe | Stop-Process
