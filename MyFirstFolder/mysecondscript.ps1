@@ -1,1 +1,1 @@
-get-process notepad.exe | Stop-Process
+get-process winword.exe | Stop-Process
